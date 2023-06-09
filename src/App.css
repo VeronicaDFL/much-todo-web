@@ -58,11 +58,12 @@ main {
 }
 
 button.ant-btn{
-  background-color: rgba(29, 28, 29, 0.923) ;
+  background-color: rgba(196, 213, 250, 0.524) ;
+  
 }
 
 span.ant-input-affix-wrapper,
 input.ant-input {
-  background-color: rgba(165, 42, 42, 0.318);
+  background-color: rgba(196, 213, 250, 0.524);
   font-size: var(--text-size);
 }
